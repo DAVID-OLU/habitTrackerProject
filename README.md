@@ -4,6 +4,11 @@
 The Habit Tracker app is a command-line Python application developed to assist users build positive habits and track their progress over time. This program enable users to create daily or weekly habits, check-in habit completions, track their habit streaks, identify broken streaks, view summaries, and analyze their consistency through habit analytics. It is designed using Python’s standard libraries and implements a modular architecture that is simple to understand, maintain, and upgrade.
 
 
+-  GitHub code link:
+```bash
+  https://github.com/DAVID-OLU/habitTrackerProject.git
+```
+
 
 
 
@@ -95,6 +100,8 @@ This will automatically discover and run all test files located in the directory
 ## Reference Links
 
 draw.io - (https://app.diagrams.net/)
+
+GitHub code repo - (https://github.com/DAVID-OLU/habitTrackerProject.git)
 
 JetBrains. (2024). PyCharm: The Python IDE for Professional Developers. Retrieved from https://www.jetbrains.com/pycharm/
 
